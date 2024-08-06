@@ -58,6 +58,9 @@ export default function HomeScreen() {
               />
             );
           })}
+        <View>
+          //making my life easier
+          </View>
         </View>
       </ScrollView>
     </SafeAreaView>
